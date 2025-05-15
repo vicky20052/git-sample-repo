@@ -1,1 +1,6 @@
 Just understanding git commands------
+
+
+
+
+changes by privatebranch2
