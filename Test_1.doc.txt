@@ -1,6 +1,6 @@
 Just understanding git commands------
 
-
-
+changes by privatebranch1
 
 changes by privatebranch2
+
